@@ -1,4 +1,4 @@
 # ThingsMonitor
-ThingSpeak basic browser
+basic ThingSpeak browser
 
 Feel free in any use, but stick to libraries and images licenses!
